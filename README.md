@@ -4,7 +4,7 @@ This repository contains the code to compute the distance to the stochastic phyl
 
 ## Prerequisites
 
-[**Macaulay2**](http://www.math.uiuc.edu/Macaulay2/) and [**PhCpack**](http://homepages.math.uic.edu/~jan/phcpy_doc_html/welcome.html) should be previously installed.
+[**Macaulay2**](http://www.math.uiuc.edu/Macaulay2/) and [**PHCpack**](http://homepages.math.uic.edu/~jan/phcpy_doc_html/welcome.html) should be previously installed.
 
 ## Running the tests
 
