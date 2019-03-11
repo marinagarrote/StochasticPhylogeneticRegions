@@ -15,7 +15,7 @@ File *AlgorithmStochasticPhylogeneticVarieties.m2* contains the main code.
 The following lines are comented in the code since the execution of them could take several days. Uncomment them in case you want to compute the degree for different parameters.
 
 ```
-J = saturate(ideal DFu, ideal(x_0*x_1*x_2*x_3*x_4));
+J = saturate(ideal I, ideal(x_0*x_1*x_2*x_3*x_4));
 degJ = degree J;
 ```
 
